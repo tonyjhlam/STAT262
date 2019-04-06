@@ -1,2 +1,2 @@
-# STAT262
+# STAT626
 stats final project
